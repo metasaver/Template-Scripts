@@ -1,5 +1,6 @@
 # Template-Scripts
 Bash script to make creating projects faster
+based on https://www.mslinn.com/blog/2020/11/30/propagating-git-template-changes.html
 
 ## Installation
 1. Install Github CLI https://github.com/cli/cli#installation
