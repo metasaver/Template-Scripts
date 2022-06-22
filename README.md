@@ -1,5 +1,5 @@
 # Template-Scripts
-Bash script(s) to make creating projects faster
+Bash script to make creating projects faster
 
 ## Installation
 1. Install Github CLI https://github.com/cli/cli#installation
@@ -8,7 +8,7 @@ Bash script(s) to make creating projects faster
 gh auth login
 ```
 1. Create a template repository (this can change over time and update your repos that use the template)
-1. Clone this repo to the root of your local Code folder
+1. Copy cloneTemplate.sh to the root of your local Code folder
 1. Change the github_username variable in the script to your github account
 ```
 github_username=YOUR_ACCOUNT
