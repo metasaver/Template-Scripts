@@ -7,7 +7,7 @@ Bash script to make creating projects faster
 ```
 gh auth login
 ```
-1. Create a template repository (this can change over time and update your repos that use the template)
+1. Create a template repository (Just add a README file. The template can change over time and update your repos that use the template)
 1. Copy cloneTemplate.sh to the root of your local Code folder
 1. Change the github_username variable in the script to your github account
 ```
